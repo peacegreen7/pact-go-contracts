@@ -136,8 +136,8 @@ This should print the current value of the `DYLD_LIBRARY_PATH` variable, showing
 
 ## Reference
 
-https://docs.pact.io/.
-https://github.com/pact-foundation/pact-go
-https://docs.pact.io/implementation_guides/go
+https://docs.pact.io/ <br>
+https://github.com/pact-foundation/pact-go <br>
+https://docs.pact.io/implementation_guides/go <br>
 https://www.linkedin.com/pulse/learnings-observations-from-implementing-contract-testing-herring/
 
