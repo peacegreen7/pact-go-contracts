@@ -142,4 +142,5 @@ https://github.com/pact-foundation/pact-workshop-go <br>
 https://docs.pact.io/implementation_guides/go <br>
 https://www.linkedin.com/pulse/learnings-observations-from-implementing-contract-testing-herring/ <br>
 https://www.youtube.com/playlist?list=PLwy9Bnco-IpfZ72VQ7hce8GicVZs7nm0i
+https://bookstore.toolsqa.com/swagger/#/BookStore
 
